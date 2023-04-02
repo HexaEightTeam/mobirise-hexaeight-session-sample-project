@@ -10,8 +10,8 @@ The following changes were incorporated in order to enable authentication
 2. There is a empty content6-f tag below the introduction block titled "Authentication demo". If you look at the code using code editor, there are two <divs> added for displaying appname and username
 3.  Towards the end of the page you have a custom-script block which contains all the Javascript code for encryption/decryption, protection/dechipher and callback functions.
 
-** Remember to modify the Client ID and tokenserverurl in th custom script code to point to your application.
+**Remember to modify the Client ID and tokenserverurl in th custom script code to point to your application.**
 
-Publish the site 
+Finally Publish the site !!
 
-** This demo sample is part of a [this](https://github.com/HexaEightTeam/session-js-spa-https) repository **
+**This demo sample is part of a [this](https://github.com/HexaEightTeam/session-js-spa-https) repository**
